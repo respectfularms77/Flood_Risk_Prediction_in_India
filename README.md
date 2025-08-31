@@ -1,4 +1,4 @@
-# 🌊 Flood Risk Prediction
+# Flood Risk Prediction in India
 
 ## 📌 Project Overview
 This project focuses on **Flood Risk Prediction** as part of the *Climate Risk and Disaster Management* domain.  
