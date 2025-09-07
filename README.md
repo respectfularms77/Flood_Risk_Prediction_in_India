@@ -1,4 +1,4 @@
-# Flood Risk Prediction in India
+# 🌊 Flood Risk Prediction in India
 
 ## 📌 Project Overview
 This project focuses on **Flood Risk Prediction** as part of the *Climate Risk and Disaster Management* domain.  
@@ -17,9 +17,9 @@ The objective of this project is to explore, analyze, and build a foundation for
 - **Programming Language**: Python 🐍  
 - **Libraries**:  
   - `numpy`, `pandas` – Data handling and preprocessing  
-  - `re`, `nltk` – Text/data cleaning (if needed)  
-  - `sklearn` – Machine Learning models & evaluation  
-- **Platform**: Google Colab / Jupyter Notebook
+  - `matplotlib`, `seaborn` – Data visualization  
+  - `sklearn` – Machine Learning models & feature selection  
+- **Platform**: Google Colab / Jupyter Notebook  
 
 ---
 
@@ -34,8 +34,34 @@ The objective of this project is to explore, analyze, and build a foundation for
 
 ---
 
+## 🔍 Week 2 Progress
+### 📊 Exploratory Data Analysis (EDA)
+- **Univariate Analysis**  
+  - Distribution plots for numerical variables  
+  - Count plots for categorical variables  
+
+- **Bivariate Analysis**  
+  - Boxplots & barplots comparing features with flood occurrence  
+
+- **Multivariate Analysis**  
+  - Correlation heatmap  
+  - Pairplots for feature relationships  
+
+### 🔧 Data Transformation
+- One-hot encoding for categorical variables (`Land Cover`, `Soil Type`)  
+- Label encoding for binary categorical variables (`Infrastructure`, `Historical Floods`)  
+- Feature scaling using `StandardScaler` for numerical features  
+
+### 🔍 Feature Selection
+- **Correlation Analysis** – Checked relationships with target variable  
+- **Chi-Square Test** – Ranked categorical features by importance  
+- **Random Forest Importance** – Identified top contributing features  
+
+---
+
 ## 📌 Deliverables
 - Week 1 Jupyter Notebook (`.ipynb`) uploaded  
+- Week 2 Jupyter Notebook (`.ipynb`) uploaded  
 - Dataset uploaded to the repository  
 
 ---
