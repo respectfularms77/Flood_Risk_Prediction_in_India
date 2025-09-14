@@ -61,7 +61,8 @@ The objective of this project is to explore, analyze, and build a foundation for
 
 ## 📌 Deliverables
 - Week 1 Jupyter Notebook (`.ipynb`) uploaded  
-- Week 2 Jupyter Notebook (`.ipynb`) uploaded  
+- Week 2 Jupyter Notebook (`.ipynb`) uploaded
+- Week 3 Jupyter Notebook (`.ipynb`) uploaded
 - Dataset uploaded to the repository  
-
+- Link to access the Trained model - https://drive.google.com/file/d/14yEKNLFxONsklovRS9J8qO_6lpLF4KmR/view?usp=drive_link
 ---
